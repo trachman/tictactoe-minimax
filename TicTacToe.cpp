@@ -6,7 +6,7 @@ using namespace std;
 
 /* GLOBALS */ 
 
-int GAME_SIZE = 3; // n x n board
+const int GAME_SIZE = 3; // n x n board
 
 enum GameStatus
 {
